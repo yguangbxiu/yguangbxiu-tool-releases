@@ -6,6 +6,7 @@
 
 - 最新版本：<https://github.com/yguangbxiu/yguangbxiu-tool-releases/releases/latest>
 - 自动更新源（应用内使用）：<https://github.com/yguangbxiu/yguangbxiu-tool-releases/releases/latest/download/appcast.xml>
+- 历史发布记录：[CHANGELOG.md](CHANGELOG.md)
 
 每个版本包含：
 
